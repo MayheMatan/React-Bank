@@ -1,0 +1,8 @@
+a {
+    text-decoration: none !important;
+    color: gray;
+}
+
+.MuiPaper-elevation3 {
+    padding: 30px;
+}
